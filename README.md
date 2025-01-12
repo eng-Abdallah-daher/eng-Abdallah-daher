@@ -61,7 +61,7 @@ Hi there! I'm **Abdallah Daher**, a passionate and driven software developer ded
 - **📧 Email**: [abdallahdaher205@gmail.com](mailto:abdallahdaher205@gmail.com)  
 - **📞 Phone**: +970-594380216  
 - **🌍 Location**: Yasseed, Nablus  
-- **💼 LinkedIn**: [Abdallah Daher]([https://www.linkedin.com/in/abdallah-daher](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B3%D9%86%D9%8A-%D9%85%D8%B1%D9%88%D8%AD-%D8%B8%D8%A7%D9%87%D8%B1-a959b9310/))  
+- **💼 LinkedIn**: [Abdallah Daher](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D8%AD%D8%B3%D9%86%D9%8A-%D9%85%D8%B1%D9%88%D8%AD-%D8%B8%D8%A7%D9%87%D8%B1-a959b9310/)  
 - **📂 Portfolio**: Coming Soon  
 
 ---
