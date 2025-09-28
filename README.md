@@ -69,12 +69,6 @@ I’m actively seeking opportunities to collaborate on exciting projects, enhanc
 
 ---
 
-## **💼 Experience**
-
-* **Software Development Intern** – *ITG Software (2023)*
-* **Freelance Developer** – *Various Clients (2021 - Present)*
-
----
 
 ## **📬 Let's Connect**
 
