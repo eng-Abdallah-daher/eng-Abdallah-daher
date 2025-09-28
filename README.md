@@ -8,151 +8,91 @@ I’m actively seeking opportunities to collaborate on exciting projects, enhanc
 
 ---
 
-## **🔧 Skills & Expertise**  
+## **🔧 Skills & Expertise**
 
-### **Programming Languages**  
-- **C**  
-- **C++**  
-- **Java**  
-- **SQL**  
-- **PHP**  
-- **Dart**  
-- **JavaScript**  
-- **Python**
+### **Programming Languages**
 
-### **Frameworks & Libraries**  
-- **Flutter**  
-- **React**  
-- **Node.js**  
-- **Express.js**  
-- **Firebase**  
-- **Bootstrap**  
-- **jQuery**  
+* C, C++, C#
+* Java, PHP, SQL
+* Dart, JavaScript
 
-### **Databases & Tools**  
-- **MySQL**  
-- **PostgreSQL**  
-- **MongoDB**  
-- **SQLite**  
-- **Git**  
-- **Docker**  
-- **AWS**  
-- **GitHub Actions**
+### **Web & Mobile Development**
 
-### **Web Technologies**  
-- **HTML**  
-- **CSS**  
-- **SASS**  
-- **GraphQL**  
-- **REST API Development**
+* HTML, CSS, JavaScript
+* React.js, Next.js, React Native, Flutter
+* jQuery, Bootstrap, Material UI, Redux
+* SASS, SCSS, LESS
 
-### **Other Skills**  
-- **Agile Methodologies**  
-- **Test-Driven Development (TDD)**  
-- **CI/CD Pipelines**  
-- **Problem Solving & Algorithms**  
-- **Cross-Platform Development**  
-- **Mobile App Development**  
+### **Back-End & Databases**
+
+* Node.js, ASP.NET, Firebase
+* REST APIs, Stripe API, WebSocket
+* MySQL, PostgreSQL, MongoDB, Oracle
+* Apache, Tomcat
+
+### **CMS & Platforms**
+
+* WordPress
+* cPanel, SPanel
+
+### **Analytics & Optimization**
+
+* Google Tag Manager (GTM)
+* Google Analytics 4 (GA4)
+* SEO Optimization
+* ADA/WCAG Compliance
+
+### **Tools & Hardware**
+
+* Git, Gulp, Grunt
+* Multisim, Arduino
 
 ---
 
-## **🌟 Key Strengths**  
+## **🌟 Key Strengths**
 
-- **🚀 Problem Solver**: Adept at tackling complex challenges and providing creative, efficient solutions with attention to detail.
-- **🛠️ Clean Code Advocate**: Passionate about writing maintainable, readable, and scalable code to ensure long-term success and productivity.
-- **💡 Quick Learner**: Always staying ahead by learning new technologies and techniques to adapt to evolving market needs.
-- **🤝 Team Player**: Strong communication skills that make me an effective collaborator in team environments.
-- **🔍 Analytical Thinker**: Skilled at breaking down problems into manageable components and addressing each systematically.
-- **🌍 Global Perspective**: Experienced in working with diverse teams and users across different cultures and time zones.
-
----
-
-## **🎓 Education**  
-
-- **Bachelor of Science in Computer Engineering**  
-  *An-Najah National University (2021 - 2025)*  
-  - **Notable Achievements**: Successfully built scalable applications, participated in coding challenges, and mentored peers in programming fundamentals.  
-  - **Key Courses**: Data Structures, Algorithms, Operating Systems, Web Development, Mobile Development, Database Management, Networking.
-
-- **High School Diploma**  
-  *Asira Secondary School for Boys (2019 - 2021)*  
-  - **Achievement**: Graduated with distinction in the scientific stream with a strong focus on mathematics and physics.
+* **🚀 Problem Solver**: Skilled at tackling complex challenges with efficient, creative solutions.
+* **🛠️ Full-Stack Experience**: Hands-on with both frontend and backend development, delivering end-to-end solutions.
+* **💡 Quick Learner**: Continuously upgrading my skills to keep pace with evolving technologies.
+* **🤝 Team Player**: Strong communicator and collaborator in cross-functional environments.
+* **🔍 Analytical Thinker**: Excellent at breaking down problems into manageable parts and implementing structured solutions.
 
 ---
 
-## **💼 Featured Projects**  
+## **🎓 Education**
 
-### **🚗 Intelligent Vehicle Routing**  
-- **Technologies Used**: **Flutter**, **Dart**, **Google Maps API**  
-- **Description**: Developed a mobile application that optimizes transportation routes for vehicles to minimize fuel consumption. The app analyzes traffic patterns and calculates the most efficient routes.  
-- **Impact**: Reduced fuel consumption by **25%** for users based on real-world testing.
+* **Bachelor of Science in Computer Engineering**
+  *An-Najah National University (2021 - 2025)*
 
-### **🌐 Secure Web Portal**  
-- **Technologies Used**: **PHP**, **MySQL**, **HTML/CSS**, **JavaScript**  
-- **Description**: Designed and deployed a secure web portal for user registration, login, and content management. The system includes role-based access control and data encryption for added security.  
-- **Impact**: Successfully deployed and integrated the system for a local business with over 100 active users.
-
-### **📱 Smart IoT Dashboard**  
-- **Technologies Used**: **Node.js**, **Express.js**, **Socket.io**, **MongoDB**  
-- **Description**: Created an IoT dashboard for monitoring smart devices, with real-time data analytics and remote control functionality. The system supports multiple devices, providing users with a seamless experience.  
-- **Impact**: Improved device management efficiency by **30%**, with remote diagnostics and reporting.
-
-### **💬 Chatbot for Customer Support**  
-- **Technologies Used**: **JavaScript**, **Node.js**, **Dialogflow API**  
-- **Description**: Developed a chatbot that interacts with customers in real time to handle basic queries and provide automated support.  
-- **Impact**: Reduced customer service response time by **40%**, allowing support staff to focus on complex issues.
+* **High School Diploma**
+  *Asira Secondary School for Boys (2019 - 2021)*
 
 ---
 
-## **💻 Additional Work Experience**  
+## **💼 Experience**
 
-- **Software Development Intern**  
-  *ITG Software (June 2023 - August 2023)*  
-  - Worked on building internal tools and applications, including automating data analysis and report generation.  
-  - Participated in full-stack development tasks, contributing to both frontend and backend features.
-
-- **Freelance Developer**  
-  *Various Clients (2021 - Present)*  
-  - Developed web and mobile applications for small businesses, focusing on UI/UX design and responsive functionality.  
-  - Worked with clients to define project requirements and deliver high-quality products on time.
+* **Software Development Intern** – *ITG Software (2023)*
+* **Freelance Developer** – *Various Clients (2021 - Present)*
 
 ---
 
-## **📬 Let's Connect**  
-- **📧 Email**: [abdallahdaher205@gmail.com](mailto:abdallahdaher205@gmail.com)  
-- **📞 Phone**: +970-594380216  
-- **🌍 Location**: Yasseed, Nablus  
-- **💼 LinkedIn**: [Abdallah Daher](https://www.linkedin.com/in/abdallah-daher-b720aa33b/)  
-- **📂 Portfolio**: [Coming Soon]  
+## **📬 Let's Connect**
+
+* **📧 Email**: [abdallahdaher205@gmail.com](mailto:abdallahdaher205@gmail.com)
+* **📞 Phone**: +970-594380216
+* **🌍 Location**: Yasseed, Nablus
+* **💼 LinkedIn**: [Abdallah Daher](https://www.linkedin.com/in/abdallah-daher-b720aa33b/)
 
 ---
 
-## **🚀 Vision & Career Goals**  
-I am on a mission to blend innovation and technology to create smarter, more efficient solutions that make a meaningful impact on society. My ultimate goal is to contribute to cutting-edge technologies in the fields of AI, machine learning, and cloud computing, while continually growing as a developer and a team player.  
+## **🚀 Vision & Career Goals**
 
-I’m always open to new opportunities, collaborations, internships, and challenges that allow me to learn and grow in the tech industry. Let’s build something extraordinary together! 🚀
-
----
-
-## **🌱 Personal Projects & Contributions**  
-
-- **Open Source Contributor**: Contributed to multiple open-source projects on GitHub, including bug fixes, documentation improvements, and feature development.
-- **Hackathons & Competitions**: Regularly participate in hackathons to hone problem-solving skills and work under tight deadlines.
+I aim to blend innovation and technology to build smarter, more efficient solutions that create meaningful impact. My career goal is to contribute to cutting-edge technologies in AI, machine learning, and cloud computing while continuing to grow as a developer and problem solver.
 
 ---
 
-## **📝 Certifications**  
-- **[Certified Java Developer](link-to-certification)**  
-- **[Flutter & Dart Developer](link-to-certification)**  
-- **[AWS Certified Solutions Architect](link-to-certification)**
+## **📝 Certifications (In Progress)**
 
----
-
-## **💡 Interesting Facts**  
-- **Hobbies**: In my free time, I enjoy experimenting with new programming languages, working on side projects, and reading about the latest trends in technology.
-- **Passion**: I’m particularly passionate about building software that solves real-world problems and contributes to sustainability, accessibility, and inclusivity.
-
----
-
-### Let's connect and build something amazing together! 🚀
-
+* Java Developer Certification
+* Flutter & Dart Developer
+* AWS Solutions Architect
